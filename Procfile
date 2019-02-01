@@ -1,3 +1,3 @@
-worker: python KawaiiBunnyDev
+worker: python KawaiiBunnyDev.py
 
 
