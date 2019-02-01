@@ -12,4 +12,4 @@ async def on_ready():
     print('-----------------')
 
    
-bot.run('NTQwNzM4MTQ0ODE1ODA4NTI3.DzVRoA.hwBmI-OJR-2gMX4yOFBsa2aKgzM')
+bot.run('NTQwNzM4MTQ0ODE1ODA4NTI3.DzZIHA.0gW_mr3AL_omCxV9VX_XQAk7PmY')
