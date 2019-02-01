@@ -11,10 +11,5 @@ async def on_ready():
     print(bot.user.id)
     print('-----------------')
 
-@bot.command(pass_context=True)
-async def mute(ctx,target:discord.Member):
-	role=discord.utils.get(ctx.message.server.roles,name='Muted')
-
-    
-    
+   
 bot.run('NTQwNzM4MTQ0ODE1ODA4NTI3.DzVRoA.hwBmI-OJR-2gMX4yOFBsa2aKgzM')
